@@ -1,0 +1,1 @@
+#lambdas function with map,filter,reduce 
